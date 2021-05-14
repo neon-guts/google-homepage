@@ -1,1 +1,1 @@
-This is my very first project. I used codepen.io to make this so I could see the web page in real time and then copy & pasted it into the actual file on VSCode.
+This is my very first project. I used HTML/CSS in codepen.io to make this so I could see the web page in real time and then copy & pasted it into index.html on VSCode. Will likely keep coming back to see how I can improve it.
