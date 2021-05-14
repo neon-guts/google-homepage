@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Google</title>
+  <style>
+    .logo {
+      display: block;
+      margin-left: auto;
+      margin-right: auto;
+      margin-top: 240px;
+    }
+
+    #search {
+      display: flex;
+      justify-content: center;
+      position: relative;
+    }
+
+    .bar {
+      display: absolute;
+      top: 50%;
+    }
+
+    .right2,
+    .right1 {
+      float: right;
+      margin: 0 0 0 10px;
+    }
+  </style>
+</head>
+
+<body>
+  <div id="navbar">
+    <nav>
+      <a href="#">About</a>
+      <a href="#">Store</a>
+      <a class="right1" href="#">Gmail</a>
+      <a class="right2" href="#">Images</a>
+    </nav>
+  </div>
+  <div id="google">
+    <img class="logo" alt="Google" src="https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png">
+  </div>
+  <div id="search">
+    <input class="bar" type="text" placeholder="Search..."><button>Go</button>
+  </div>
+</body>
+
+</html>

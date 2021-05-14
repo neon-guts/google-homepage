@@ -1,0 +1,1 @@
+This is my very first project. I used codepen.io to make this so I could see the web page in real time and then copy & pasted it into the actual file on VSCode.
